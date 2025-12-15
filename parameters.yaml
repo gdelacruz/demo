@@ -1,4 +1,4 @@
-commits:
-  - 2cc30e9b41646dd4f3b17ad6c74b5162aada71eb
+files:
+  - src/sql/aa.sql
 ticket: '1111'
 
