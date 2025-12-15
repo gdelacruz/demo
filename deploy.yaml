@@ -1,0 +1,9 @@
+artifactId: "demo"
+groupId: "dit.st.demo"
+
+# Release Repository (Production/Stable)
+repository:
+  id: "dit.artefactos"
+  url: "https://nexus.cloudint.afip.gob.ar/nexus/repository/sistemas-tributarios-raw/"
+scm:
+  url: https://gitlab.cloudint.afip.gob.ar/sistrib/cadera/
